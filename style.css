@@ -1,0 +1,181 @@
+html
+{
+	margin: auto;
+	padding: auto;
+}
+body, html {
+	height: 100%;
+	background-color:#b9edbc;
+	
+  }
+  .H
+  {
+	  background-color:#c28d8d;
+	  width:auto;
+	  height:50px;
+	  text-align:center;
+	  margin-top:auto;
+	  font-size:31px;
+	  font-family: fantasy;
+	  color:block;
+  }
+  .H,h1
+  {
+	  
+	  margin:auto;
+	  padding-top:15px;
+  }
+  .content
+  {
+	  display:flex;
+  }
+
+.d1
+{
+  width: 250px;
+  height: 300px;
+  margin-top:65px;
+  margin-left:100px;
+  
+}
+.d1 img
+{
+	width:250px;
+	height: 325px;
+	border: 2px solid black;
+    border-radius: 15px;
+
+}
+
+.d2
+{
+	 width: 880px;
+  height: 325px;
+  background-color:#cad7e6;
+  border-left: 5px solid #5fa1ed;
+margin-top:65px;
+  margin-left:50px; 
+  padding-left:20px;
+}
+.d2 h2
+{
+	display:inline;
+	font-size:40px;
+}
+.d2 p
+{
+     display:inline;
+	 font-size: 1.20em;
+	 line-height:30px;
+}
+.con2
+{
+	width:100%;
+	height:350px;
+	margin-top:40px;
+}
+.con2 table, th, td
+{
+  border: 3px solid black;
+  border-collapse: collapse;
+  line-height:35px;
+  margin:auto;
+  padding:10px;
+  text-align:center;
+}
+ .con3
+  {
+	  display:flex;
+  }
+.c3d1
+{
+	width:50%;
+	height:270px;
+	background-color:#cad7e6;
+  border-left: 5px solid #5fa1ed;
+	margin-top:40px;
+}
+.c3d2
+{
+	width:46%;
+	height:270px;
+	background-color:#cad7e6;
+  border-left: 5px solid #5fa1ed;
+	margin-left:40px;
+	margin-top:40px;
+}
+.c3u1
+{
+	margin:30px;
+	 font-size: 1.20em;
+	 line-height:30px;
+}
+.c3u2
+{
+	margin:30px;
+	font-size: 1.20em;
+	line-height:30px;
+}
+.con4
+{
+	width:100%;
+	height:140px;
+	background-color:#cad7e6;
+	border-left: 5px solid #5fa1ed;
+	margin-top:40px;
+}
+.c4u1
+{
+	margin:30px;
+	font-size: 1.20em;
+	line-height:30px;
+}
+.con5
+  {
+	  display:flex;
+	  margin-top:25px;
+	  background-color:#c28d8d;
+  }
+
+.c5d1
+{
+	width:30%;
+	height:120px;
+	margin-top:40px;
+	text-align:center;
+	margin:20px;
+}
+.fa-map-location-dot
+{
+	font-size:60px;
+}
+.c5d2
+{
+	width:30%;
+	height:120px;
+	margin-top:40px;
+	text-align:center;
+	margin:20px;
+}
+.c5d3
+{
+	width:30%;
+	height:120px;
+	margin-top:40px;
+	text-align:center;
+	margin:20px;
+}
+.fa-mobile-screen-button
+{
+	font-size:60px;
+}
+.fa-envelope-open-text
+{
+	font-size:60px;
+}
+.end
+{
+	margin:0px;
+	background-color:#c28d8d;
+	text-align:center;
+}
